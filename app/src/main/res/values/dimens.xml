@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mb_height_56">56dp</dimen>
+    <dimen name="mb_width_120">200dp</dimen>
+    <dimen name="mb_corner_radius_4">4dp</dimen>
+    <dimen name="mb_height_8">8dp</dimen>
+</resources>
